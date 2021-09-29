@@ -11,7 +11,7 @@ public class ScanUtil {
 		scn.nextLine();
 		return num;
 
-	}
+	}  
 
 	public static String readStr(String msg) {
 		System.out.println(msg);
